@@ -11,4 +11,4 @@ l = map(int,input().split())
 t = list(l)
 
 
-print(tuple(t))
+print(hash(tuple(t)))
