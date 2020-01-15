@@ -12,3 +12,9 @@
   > list = [1,2,3,4]
   > import numpy as np
   > arr = np.array(list);   // array([1,2,3,4])
+
+  #### Nympy Operations
+
+- Array with Array
+- Array with scalars
+- Universal Array Functions
