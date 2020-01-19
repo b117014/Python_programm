@@ -15,3 +15,16 @@ for i in Days:
 
 
 ```
+>output
+```python
+{'Friday', 'Tuesday', 'Monday', 'Saturday', 'Thursday', 'Sunday', 'Wednesday'}
+<class 'set'>
+looping through the set elements ... 
+Friday
+Tuesday
+Monday
+Saturday
+Thursday
+Sunday
+Wednesday
+```
