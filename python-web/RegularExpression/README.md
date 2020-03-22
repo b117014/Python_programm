@@ -19,4 +19,4 @@
   ### Example of search method
 
   ![](./Images/SearchMethod.png)
-  <img src="./Images/SearchMethod-2.png" height=400 width=400 >
+  <img src="./Images/SearchMethod-2.png" height=400 width=800 >
