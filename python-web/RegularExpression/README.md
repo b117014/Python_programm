@@ -8,8 +8,14 @@
 
 ### Some syntax of RE
 
-![](./syntax.png)
+![](./Images/syntax.png)
 
 #### some method of "re" library
 - search
   1. re.search()    // search method work like find() if you find any word or pattern then we can use search.
+- findall()
+  1. to find all string which has match to the RE.
+
+  ### Example of search method
+
+  ![](./Images/SearchMethod.png)
