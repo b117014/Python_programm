@@ -8,7 +8,7 @@
 
 ### Some syntax of RE
 
-![]('/root/Pictures/Screenshot from 2020-03-22 15-07-18.png')
+![](/root/Pictures/Screenshot from 2020-03-22 15-07-18.png)
 
 #### some method of "re" library
 - search
