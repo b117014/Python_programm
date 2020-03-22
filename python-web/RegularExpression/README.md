@@ -25,5 +25,9 @@
   <img src="./Images/MatchExample.png">
   <img src="./Images/MatchExample-2.png">
 
-<h4> Greedy match </h4>
+<h2> Greedy match </h2>
 <img src="./Images/GreedyMatch.png>
+
+## Non Greedy Match
+- Use +? or *? operator for non greedy match. It will choose shorter string.
+<img src="./Images/NonGreedyMatch">
