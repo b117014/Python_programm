@@ -19,3 +19,5 @@
   ### Example of search method
 
   ![](./Images/SearchMethod.png)
+  ![](./Images/SearchMethod-2.png)
+  <img src="./Images/syntax.png" >
