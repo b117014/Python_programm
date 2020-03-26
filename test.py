@@ -1,4 +1,8 @@
 
+import re;
 
-print("hello world");
-
+x = "From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008"
+y = re.findall('\S+?@\S+',x);
+print(y)
+z= re.findall("@([^ ]*)",x);
+print(z)
