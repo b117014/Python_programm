@@ -30,4 +30,9 @@
 
 ## Non Greedy Match
 - Use +? or *? operator for non greedy match. It will choose shorter string.
-<img src="./Images/NonGreedyMatch">
+<img src="./Images/NonGreedyMatch.png">
+
+## None blank Character Syntax
+- [^ ] using this syntax regex return the non blank character.
+- It serach untill blank character comes.
+<img src="./Images/MatchNonBlankCharacter.png" >
