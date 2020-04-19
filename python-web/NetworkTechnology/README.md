@@ -6,3 +6,4 @@
 
  ## Python Socket
  <img src="./Images/Socket.png">
+ - only three lines of code of python to establish the communication.
