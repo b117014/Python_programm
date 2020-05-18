@@ -19,3 +19,5 @@ imge_1 = cv2.imread('<image>', 0)
 print(img)   # print 3d matrix
 
 ```
+### Display image
+<img src="./images/displayImage.png" >
