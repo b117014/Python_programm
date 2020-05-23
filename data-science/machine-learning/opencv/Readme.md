@@ -1,6 +1,6 @@
 # OpenCv with python
 
-- import cv2  
+- import cv2
 - this cv2 module of opencv which handles all methods.
 - human can read image, video but computer can only reads piexel and bits
 - open cv classifed the image on matrix
@@ -21,3 +21,7 @@ print(img)   # print 3d matrix
 ```
 ### Display image
 <img src="./images/displayImage.png" >
+
+- imshow is method of opencv library which is used to display the image
+- waitKey for time to close the display image
+- destroyAllWindows method for closing the window
