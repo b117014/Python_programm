@@ -32,4 +32,8 @@ print(img)   # print 3d matrix
 
 - here we gone learn about the how face detection works
  1. Read the image, create cascade classifier. It will contains the feature of Face
- 2. Search for row and colomn of the face numpy ndarray(face rectangles co-ordinates) 
+ 2. Search for row and colomn of the face numpy ndarray(face rectangles co-ordinates)
+ 3. display the image of rectangular box
+
+<img src="images/FaceDetection-2.png" >
+<img src="images/FaceDetection-3.png">
