@@ -22,6 +22,14 @@ print(img)   # print 3d matrix
 ### Display image
 <img src="./images/displayImage.png" >
 
+
 - imshow is method of opencv library which is used to display the image
 - waitKey for time to close the display image
 - destroyAllWindows method for closing the window
+
+## Face detection
+<img  src="images/FaceDetection.png">
+
+- here we gone learn about the how face detection works
+ 1. Read the image, create cascade classifier. It will contains the feature of Face
+ 2. Search for row and colomn of the face numpy ndarray(face rectangles co-ordinates) 
