@@ -16,7 +16,7 @@ faces = face_cascade.detectMultiScale(gray_img, scaleFactor=1.05, minNeighbors=5
 for x, y, w, h in faces:
     # last argument of rectangle method is width size
     # first argument is image object
-    img = cv2.rectangle(img, (x, y), (x+w, y+h), (0, 255, 0), 3)
+    img = cv2.rectangle(img, (x, y), (x+w, y+h), (0, 255, 0), 2)
 
 
 cv2.imshow("Beatest", img)

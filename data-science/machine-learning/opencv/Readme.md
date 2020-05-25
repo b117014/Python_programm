@@ -38,3 +38,15 @@ print(img)   # print 3d matrix
 <img src="images/FaceDetection-2.png" >
 <img src="images/FaceDetection-3.png">
 <img src="images/FaceDetection-4.png">
+
+## Capture Video in OpenCv
+ ```sh
+  import cv2
+  # either pass video path or 0 as argument of VideoCapture method, 0 define that you are using web cam
+  video  =  cv2.VideoCapture(0)
+  # VideoCapture method to create object which trigger the camera
+  video.release()
+  # this will release the camera in some milisecond
+  ```
+
+<img src="images/FaceDetection-5.png" >
